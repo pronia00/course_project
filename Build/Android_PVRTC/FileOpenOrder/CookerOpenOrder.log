@@ -1555,590 +1555,608 @@
 "../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/MenuLevel.uasset" 1554
 "../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/WorldGridMaterial.uasset" 1555
 "../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/TronMaterials.uasset" 1556
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm/AlghoritmInterface.uasset" 1557
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm/CommandsEnum.uasset" 1558
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm/Function.uasset" 1559
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Function.uasset" 1560
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm.uasset" 1561
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/CoordStruct.uasset" 1562
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Object/Object.uasset" 1563
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Textures/Gradients/T_Gradinet_01.uasset" 1564
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Materials/Dymanic_TronGlow.uasset" 1565
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Materials/FlashingTronGlow.uasset" 1566
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/ame_nebula/SketchUp_ID3Mat.uasset" 1557
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm/AlghoritmInterface.uasset" 1558
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm/CommandsEnum.uasset" 1559
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm/Function.uasset" 1560
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Function.uasset" 1561
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm.uasset" 1562
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/CoordStruct.uasset" 1563
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Object/Object.uasset" 1564
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Textures/Gradients/T_Gradinet_01.uasset" 1565
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Materials/Dymanic_TronGlow.uasset" 1566
 "../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_MacroVariation.uasset" 1567
 "../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Steel_D.uasset" 1568
 "../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Tech_Panel_M.uasset" 1569
 "../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Tech_Panel_N.uasset" 1570
 "../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Tech_Panel.uasset" 1571
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Basic_Wall.uasset" 1572
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Cube.uasset" 1573
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Block/Block.uasset" 1574
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Map/Map.uasset" 1575
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/alpha.uasset" 1576
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/OnPlaceMovementAlpha.uasset" 1577
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/4b8d6bc5.uasset" 1578
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/4b8d6bc5_dds.uasset" 1579
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/656fef10.uasset" 1580
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/656fef10_dds.uasset" 1581
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/a0b55fae.uasset" 1582
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/a0b55fae_dds.uasset" 1583
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/Low-Poly_Dalek.uasset" 1584
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Directions.uasset" 1585
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Hero.uasset" 1586
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/LevelClass/Level.uasset" 1587
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm/FunctionsEnum.uasset" 1588
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/StartButton.uasset" 1589
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/StopGameButton.uasset" 1590
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm/Alghoritm.uasset" 1591
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghoritm.uasset" 1592
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/alpha.uasset" 1593
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/class_hero.uasset" 1594
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/class_level.uasset" 1595
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/class_object.uasset" 1596
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm/Cycle.uasset" 1597
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Cycle.uasset" 1598
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Directions.uasset" 1599
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/CommandsEnum.uasset" 1600
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/enum_commands.uasset" 1601
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/FunctionsEnum.uasset" 1602
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/GameStuff/GeneralControlller.uasset" 1603
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/GeneralControlller.uasset" 1604
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/AlghoritmInterface.uasset" 1605
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/interface_alghorithm.uasset" 1606
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/MoveWidget.uasset" 1607
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/TurnLeftButton.uasset" 1608
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/TurnRightButton.uasset" 1609
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/ClearCommands.uasset" 1610
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/TestMovementWidget.uasset" 1611
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/LevelHUD.uasset" 1612
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/LevelHUD.uasset" 1613
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/LevelHUD.uasset" 1614
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MoveWidget.uasset" 1615
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/MoveWidget.uasset" 1616
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/OnPlaceMovementAlpha.uasset" 1617
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/GameStuff/RoundCamera.uasset" 1618
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/RoundCamera.uasset" 1619
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/CoordStruct.uasset" 1620
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/struct_coord.uasset" 1621
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Block/Dynamic_TronGlow_Blueprint.uasset" 1622
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Materials/TronGlow_Green.uasset" 1623
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Block/SimpleBlock.uasset" 1624
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Textures/T_MacroVariation.uasset" 1625
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/MFunction/MF_MacroVariation.uasset" 1626
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Saved/AutoScreenshot.uasset" 1627
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Saved/Backup/summer_palm_v1_2015-05-16-01-31-27.uasset" 1628
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Saved/Backup/summer_palm_v2_2015-05-16-01-31-27.uasset" 1629
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_3_2_2_2_2_2.uasset" 1630
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_1.uasset" 1631
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2.uasset" 1632
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_10.uasset" 1633
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_3.uasset" 1634
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_11.uasset" 1635
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_3_2_2_2.uasset" 1636
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_12.uasset" 1637
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_3_2.uasset" 1638
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_13.uasset" 1639
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_2_2.uasset" 1640
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_14.uasset" 1641
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_2_2_2.uasset" 1642
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_2.uasset" 1643
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_2_2_2_2.uasset" 1644
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_3.uasset" 1645
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_3_2_2.uasset" 1646
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_4.uasset" 1647
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_3.uasset" 1648
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_5.uasset" 1649
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_3_2_2_2_2.uasset" 1650
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_6.uasset" 1651
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_2.uasset" 1652
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_7.uasset" 1653
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet.uasset" 1654
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_8.uasset" 1655
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2.uasset" 1656
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_9.uasset" 1657
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_013.uasset" 1658
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_014.uasset" 1659
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_015.uasset" 1660
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_016.uasset" 1661
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_017.uasset" 1662
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_018.uasset" 1663
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_021.uasset" 1664
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube.uasset" 1665
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/black.uasset" 1666
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/green.uasset" 1667
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/red.uasset" 1668
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/white.uasset" 1669
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_01.uasset" 1670
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_02.uasset" 1671
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/yellow.uasset" 1672
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_03.uasset" 1673
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_05.uasset" 1674
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_06.uasset" 1675
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/orange.uasset" 1676
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_07.uasset" 1677
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_08.uasset" 1678
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_11.uasset" 1679
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_12.uasset" 1680
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_13.uasset" 1681
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_15.uasset" 1682
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_16.uasset" 1683
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/blue.uasset" 1684
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_18.uasset" 1685
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_19.uasset" 1686
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_20.uasset" 1687
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_23.uasset" 1688
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_26.uasset" 1689
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_04.uasset" 1690
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_09.uasset" 1691
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_10.uasset" 1692
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_14.uasset" 1693
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_17.uasset" 1694
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_21.uasset" 1695
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_22.uasset" 1696
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_24.uasset" 1697
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_25.uasset" 1698
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/0a22f444.uasset" 1699
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/0a22f444_dds.uasset" 1700
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/5d6201ce.uasset" 1701
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/5d6201ce_dds.uasset" 1702
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/c8bb879c.uasset" 1703
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/c8bb879c_dds.uasset" 1704
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/d21c07a5.uasset" 1705
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/d21c07a5_dds.uasset" 1706
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/e6e033a7.uasset" 1707
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/e6e033a7_dds.uasset" 1708
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/Dalek.uasset" 1709
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Pillar_50x500.uasset" 1710
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_AssetPlatform.uasset" 1711
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/SM_AssetPlatform.uasset" 1712
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_400x300.uasset" 1713
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_400x400.uasset" 1714
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_500x500.uasset" 1715
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_Door_400x400.uasset" 1716
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_Window_400x400.uasset" 1717
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Light01.uasset" 1718
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Light01_Cue.uasset" 1719
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Light02.uasset" 1720
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Light02_Cue.uasset" 1721
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Explosion01.uasset" 1722
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Explosion02.uasset" 1723
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Explosion_Cue.uasset" 1724
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Burst_M.uasset" 1725
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_Burst.uasset" 1726
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Explosion_SubUV.uasset" 1727
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 1728
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/m_flare_01.uasset" 1729
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_radial_ramp.uasset" 1730
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Smoke_SubUV.uasset" 1731
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1732
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1733
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/P_Explosion.uasset" 1734
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1735
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1736
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1737
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1738
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1739
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1740
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1741
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/Skybox.uasset" 1742
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1743
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1744
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/BP_LightStudio.uasset" 1745
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 1746
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1747
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Bush_D.uasset" 1748
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Bush_N.uasset" 1749
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Bush.uasset" 1750
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Bush.uasset" 1751
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Chair_M.uasset" 1752
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Chair_N.uasset" 1753
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Chair.uasset" 1754
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Couch.uasset" 1755
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Glass.uasset" 1756
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Door_M.uasset" 1757
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Door_N.uasset" 1758
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Door.uasset" 1759
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Door.uasset" 1760
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_MaterialSphere.uasset" 1761
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 1762
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 1763
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1764
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Basalt_D.uasset" 1765
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_RockMesh_M.uasset" 1766
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_RockMesh_N.uasset" 1767
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Rock.uasset" 1768
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Rock.uasset" 1769
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Shelf_M.uasset" 1770
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Shelf_N.uasset" 1771
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Shelf.uasset" 1772
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Shelf.uasset" 1773
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Basic_Floor.uasset" 1774
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Stairs.uasset" 1775
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Cone.uasset" 1776
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Cylinder.uasset" 1777
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1778
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Pipe.uasset" 1779
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Pipe_180.uasset" 1780
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Pipe_90.uasset" 1781
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Plane.uasset" 1782
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Torus.uasset" 1783
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Trim.uasset" 1784
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1785
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1786
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_TriPyramid.uasset" 1787
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Tube.uasset" 1788
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Wedge_A.uasset" 1789
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Wedge_B.uasset" 1790
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_WideCapsule.uasset" 1791
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 1792
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1793
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1794
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1795
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1796
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1797
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1798
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Textures/UE4_LOGO_CARD.uasset" 1799
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1800
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1801
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1802
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1803
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Textures/T_UE4_Mannequin_Mobile_M.uasset" 1804
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Textures/T_UE4_Mannequin_Mobile_N.uasset" 1805
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Textures/T_UE4_Mannequin_Mobile_O.uasset" 1806
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/M_UE4Man_Body.uasset" 1807
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Textures/UE4Man_Logo_N.uasset" 1808
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/M_UE4Man_ChestLogo.uasset" 1809
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile_PhysicsAsset.uasset" 1810
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile_Skeleton.uasset" 1811
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile.uasset" 1812
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/ClearCommands.uasset" 1813
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Sounds/dustyroom_multimedia_rollover_or_button_clink.uasset" 1814
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Sounds/sound_ex_machina_Buttons+-+Glass+Button__1_.uasset" 1815
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenu/LevelIconButton.uasset" 1816
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/LevelIconButton.uasset" 1817
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Backgrounds/MainMenuBackgroundForYesButton.uasset" 1818
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Backgrounds/MainMenuBackgroundFroNoButton.uasset" 1819
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Backgrounds/star_butterfly.uasset" 1820
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/1080normal.uasset" 1821
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/640Normal.uasset" 1822
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/720Normal.uasset" 1823
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/MainMenuNormal.uasset" 1824
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/NoButton.uasset" 1825
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/OptionsNormal.uasset" 1826
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/QuitGameNormal.uasset" 1827
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/StartGameNormal.uasset" 1828
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/YesButton.uasset" 1829
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenu/MainMenuWidget.uasset" 1830
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenu/MainMenuHUD.uasset" 1831
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenu/MenuController.uasset" 1832
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenu/MainMenuGameMode.uasset" 1833
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenuGameMode.uasset" 1834
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenuHUD.uasset" 1835
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenuWidget.uasset" 1836
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MenuController.uasset" 1837
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/StartButton.uasset" 1838
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/StopGameButton.uasset" 1839
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/TestMovementWidget.uasset" 1840
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/TurnLeftButton.uasset" 1841
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/TurnRightButton.uasset" 1842
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/AroundCamera/Cam.uasset" 1843
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/AroundCamera/Cam.uasset" 1844
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Backgrounds/MainMenuBackgroundForYesButton.uasset" 1845
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Backgrounds/NoStarImage.uasset" 1846
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Backgrounds/star_butterfly.uasset" 1847
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Backgrounds/MainMenuBackgroundFroNoButton.uasset" 1848
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Backgrounds/YesStarImage.uasset" 1849
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/1080normal.uasset" 1850
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/640Normal.uasset" 1851
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/720Normal.uasset" 1852
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/ButtonTemplate.uasset" 1853
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/ButtonTemplate.uasset" 1854
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/MainMenuNormal.uasset" 1855
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/NoButton.uasset" 1856
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/OptionsNormal.uasset" 1857
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/QuitGameNormal.uasset" 1858
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/round_green_button.uasset" 1859
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/round_green_button.uasset" 1860
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/StartGameNormal.uasset" 1861
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/summer__uichest_com_.uasset" 1862
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/summer__uichest_com_.uasset" 1863
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/YesButton.uasset" 1864
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Sounds/dustyroom_multimedia_rollover_or_button_clink.uasset" 1865
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Sounds/sound_ex_machina_Buttons+-+Glass+Button.uasset" 1866
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Sounds/sound_ex_machina_Buttons+-+Glass+Button.uasset" 1867
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Sounds/sound_ex_machina_Buttons+-+Glass+Button__1_.uasset" 1868
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Sounds/zapsplat_toy_plastic_button_press.uasset" 1869
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Sounds/zapsplat_toy_plastic_button_press.uasset" 1870
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/StrategyCamera/StrategyCamera.uasset" 1871
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/StrategyCamera/StrategyCamera.uasset" 1872
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/StrategyCamera/New/StrategyCamera.uasset" 1873
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/StrategyCamera/New/StrategyCamera.uasset" 1874
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1875
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1876
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1877
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 1878
-"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 1879
-"../../Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset" 1880
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1881
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1882
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1883
-"../../Plugins/2D/Paper2D/Content/OpaqueLitSpriteMaterial.uasset" 1884
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1885
-"../../Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" 1886
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1887
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1888
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1889
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsStruct.uasset" 1890
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/cylinder.uasset" 1891
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/disc.uasset" 1892
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/sphere.uasset" 1893
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/square.uasset" 1894
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsTable.uasset" 1895
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Arealight.uasset" 1896
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1897
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1898
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 1899
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_BaseMaster.uasset" 1900
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacityMaster.uasset" 1901
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacitySimpleMaster.uasset" 1902
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset" 1903
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CropUV.uasset" 1904
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CroppedUVMapping.uasset" 1905
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 1906
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Color.uasset" 1907
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/HSVtoRGB.uasset" 1908
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RGBtoHSV.uasset" 1909
-"../../Plugins/Enterprise/DatasmithContent/Content/Textures/S_LightArea.uasset" 1910
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 1911
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1912
-"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 1913
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset" 1914
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 1915
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 1916
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 1917
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 1918
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 1919
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 1920
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 1921
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 1922
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 1923
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo.uasset" 1924
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial.uasset" 1925
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController.uasset" 1926
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 1927
-"../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset" 1928
-"../../../Engine/Content/Maps/Entry.umap" 1929
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1930
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1931
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1932
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1933
-"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1934
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1935
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1936
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1937
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1938
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1939
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1940
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1941
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1942
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1943
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1944
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1945
-"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1946
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/GameStuff/GeneralGameMode.uasset" 1947
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/SpaceSkyBox/SkyBoxNew.uasset" 1948
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/SpaceSkyBox/M_SkyBox.uasset" 1949
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/SpaceSkyBox/M_SkyBox_Inst.uasset" 1950
-"../../../Engine/Content/MapTemplates/Sky/SM_SkySphere.uasset" 1951
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/SpaceSkyBox/ClassSkyBox.uasset" 1952
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Levels/Level_1_BuiltData.uasset" 1953
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Levels/Level_1.umap" 1954
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Levels/MainMenu.umap" 1955
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Saved/Backup/4-seasons_2015-05-16-01-31-24.umap" 1956
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Block.uasset" 1957
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/GameStuff/BP_Sky_Sphere.uasset" 1958
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/BP_Sky_Sphere.uasset" 1959
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/class_map.uasset" 1960
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/GeneralGameMode.uasset" 1961
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/new_game_mode.uasset" 1962
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1963
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Maps/Minimal_Default.umap" 1964
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Fire01.uasset" 1965
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Fire01_Cue.uasset" 1966
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Fire_SubUV.uasset" 1967
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1968
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1969
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Water_N.uasset" 1970
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1971
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1972
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/P_Fire.uasset" 1973
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1974
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Smoke01.uasset" 1975
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Smoke01_Cue.uasset" 1976
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/P_Smoke.uasset" 1977
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1978
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Fire_Sparks01.uasset" 1979
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1980
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Spark_Core.uasset" 1981
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_Spark.uasset" 1982
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/P_Sparks.uasset" 1983
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1984
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Steam01.uasset" 1985
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Steam01_Cue.uasset" 1986
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/P_Steam_Lit.uasset" 1987
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1988
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Lamp_M.uasset" 1989
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Lamp_N.uasset" 1990
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Lamp.uasset" 1991
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1992
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1993
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Lamp_Wall.uasset" 1994
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1995
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Maps/StarterMap_BuiltData.uasset" 1996
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1997
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1998
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1999
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 2000
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 2001
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 2002
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 2003
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 2004
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Brick_Clay_New.uasset" 2005
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 2006
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 2007
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Perlin_Noise_M.uasset" 2008
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Brick_Clay_Old.uasset" 2009
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 2010
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 2011
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 2012
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 2013
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 2014
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 2015
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 2016
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 2017
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 2018
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 2019
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 2020
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 2021
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 2022
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 2023
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 2024
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 2025
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 2026
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Gradinet_01.uasset" 2027
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 2028
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_CobbleStone_Rough.uasset" 2029
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 2030
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 2031
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 2032
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 2033
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Grime_D.uasset" 2034
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Rust_N.uasset" 2035
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Concrete_Grime.uasset" 2036
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Panels_D.uasset" 2037
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Panels_N.uasset" 2038
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Concrete_Panels.uasset" 2039
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Poured_D.uasset" 2040
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Poured_N.uasset" 2041
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Concrete_Poured.uasset" 2042
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 2043
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 2044
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 2045
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 2046
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Concrete_Tiles.uasset" 2047
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ground_Grass_D.uasset" 2048
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ground_Grass_N.uasset" 2049
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Ground_Grass.uasset" 2050
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ground_Gravel_D.uasset" 2051
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ground_Gravel_N.uasset" 2052
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Ground_Gravel.uasset" 2053
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_ground_Moss_D.uasset" 2054
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ground_Moss_N.uasset" 2055
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Ground_Moss.uasset" 2056
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 2057
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 2058
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Gold_N.uasset" 2059
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 2060
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Chrome.uasset" 2061
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Copper_D.uasset" 2062
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Copper.uasset" 2063
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Gold_D.uasset" 2064
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Gold.uasset" 2065
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Rust_D.uasset" 2066
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Rust.uasset" 2067
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Steel_N.uasset" 2068
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Steel.uasset" 2069
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Basalt_N.uasset" 2070
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Rock_Basalt.uasset" 2071
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 2072
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 2073
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 2074
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Rock_Sandstone.uasset" 2075
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Slate_D.uasset" 2076
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Slate_N.uasset" 2077
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Rock_Slate.uasset" 2078
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Checker_Noise_M.uasset" 2079
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Single_Tile_N.uasset" 2080
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Tech_Dot_M.uasset" 2081
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Tech_Dot_N.uasset" 2082
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 2083
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 2084
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 2085
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 2086
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 2087
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Water_Lake.uasset" 2088
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Water_M.uasset" 2089
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Water_Ocean.uasset" 2090
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 2091
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 2092
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2093
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 2094
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 2095
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Oak_D.uasset" 2096
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Oak_N.uasset" 2097
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Wood_Oak.uasset" 2098
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Pine_D.uasset" 2099
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Pine_N.uasset" 2100
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Wood_Pine.uasset" 2101
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Walnut_D.uasset" 2102
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Walnut_N.uasset" 2103
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Wood_Walnut.uasset" 2104
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Floor_400x400.uasset" 2105
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_400x200.uasset" 2106
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_Door_400x300.uasset" 2107
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_Window_400x300.uasset" 2108
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Collapse01.uasset" 2109
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Collapse02.uasset" 2110
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Collapse_Cue.uasset" 2111
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Starter_Birds01.uasset" 2112
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Starter_Wind05.uasset" 2113
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Starter_Wind06.uasset" 2114
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Starter_Background_Cue.uasset" 2115
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Starter_Music01.uasset" 2116
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Starter_Music_Cue.uasset" 2117
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Dust_Particle_D.uasset" 2118
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 2119
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/P_Ambient_Dust.uasset" 2120
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/MaterialSphere.uasset" 2121
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Chair.uasset" 2122
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Frame_M.uasset" 2123
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Frame_N.uasset" 2124
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Frame.uasset" 2125
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_CornerFrame.uasset" 2126
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_DoorFrame.uasset" 2127
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_GlassWindow.uasset" 2128
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_PillarFrame.uasset" 2129
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_PillarFrame300.uasset" 2130
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Statue_M.uasset" 2131
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Statue_N.uasset" 2132
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Statue.uasset" 2133
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_StatueGlass.uasset" 2134
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Statue.uasset" 2135
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_TableRound_M.uasset" 2136
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_TableRound_N.uasset" 2137
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_TableRound.uasset" 2138
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_TableRound.uasset" 2139
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_WindowFrame.uasset" 2140
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2141
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Sphere.uasset" 2142
-"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Maps/StarterMap.umap" 2143
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Block/Block.uasset" 1572
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Map/Map.uasset" 1573
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/alpha.uasset" 1574
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/OnPlaceMovementAlpha.uasset" 1575
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/4b8d6bc5.uasset" 1576
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/4b8d6bc5_dds.uasset" 1577
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/656fef10.uasset" 1578
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/656fef10_dds.uasset" 1579
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/a0b55fae.uasset" 1580
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/a0b55fae_dds.uasset" 1581
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Dalek/Low-Poly_Dalek.uasset" 1582
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Directions.uasset" 1583
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Hero/Hero.uasset" 1584
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/LevelClass/Level.uasset" 1585
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm/FunctionsEnum.uasset" 1586
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/PlayButton.uasset" 1587
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Sounds/dustyroom_multimedia_rollover_or_button_clink.uasset" 1588
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Sounds/sound_ex_machina_Buttons+-+Glass+Button__1_.uasset" 1589
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/StartButton.uasset" 1590
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/StopButton.uasset" 1591
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/StopGameButton.uasset" 1592
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm/Alghoritm.uasset" 1593
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghoritm.uasset" 1594
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/alpha.uasset" 1595
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/class_hero.uasset" 1596
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/class_level.uasset" 1597
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/class_object.uasset" 1598
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Alghorithm/Cycle.uasset" 1599
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Cycle.uasset" 1600
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Directions.uasset" 1601
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/CommandsEnum.uasset" 1602
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/enum_commands.uasset" 1603
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/FunctionsEnum.uasset" 1604
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/GameStuff/GeneralControlller.uasset" 1605
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/GeneralControlller.uasset" 1606
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/AlghoritmInterface.uasset" 1607
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/interface_alghorithm.uasset" 1608
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/ClearCommands.uasset" 1609
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/ActionButton.uasset" 1610
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/Function1Button.uasset" 1611
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/Function2Button.uasset" 1612
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/MoveButton.uasset" 1613
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/TurnLeftButton.uasset" 1614
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/TurnRightButton.uasset" 1615
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/CommandButton.uasset" 1616
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/CommandsPlate.uasset" 1617
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/GameUI.uasset" 1618
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/LevelHUD.uasset" 1619
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/LevelHUD.uasset" 1620
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/LevelHUD.uasset" 1621
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/MoveWidget.uasset" 1622
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MoveWidget.uasset" 1623
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/MoveWidget.uasset" 1624
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/OnPlaceMovementAlpha.uasset" 1625
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/GameStuff/RoundCamera.uasset" 1626
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/RoundCamera.uasset" 1627
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/CoordStruct.uasset" 1628
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/struct_coord.uasset" 1629
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Block/Dynamic_TronGlow_Blueprint.uasset" 1630
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Materials/FlashingTronGlow.uasset" 1631
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Materials/TronGlow_Green.uasset" 1632
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Basic_Wall.uasset" 1633
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Cube.uasset" 1634
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Block/SimpleBlock.uasset" 1635
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Textures/T_MacroVariation.uasset" 1636
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/MFunction/MF_MacroVariation.uasset" 1637
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Saved/AutoScreenshot.uasset" 1638
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Saved/Backup/summer_palm_v1_2015-05-16-01-31-27.uasset" 1639
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Saved/Backup/summer_palm_v2_2015-05-16-01-31-27.uasset" 1640
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_3_2_2_2_2_2.uasset" 1641
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_1.uasset" 1642
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2.uasset" 1643
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_10.uasset" 1644
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_3.uasset" 1645
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_11.uasset" 1646
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_3_2_2_2.uasset" 1647
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_12.uasset" 1648
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_3_2.uasset" 1649
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_13.uasset" 1650
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_2_2.uasset" 1651
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_14.uasset" 1652
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_2_2_2.uasset" 1653
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_2.uasset" 1654
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_2_2_2_2.uasset" 1655
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_3.uasset" 1656
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_3_2_2.uasset" 1657
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_4.uasset" 1658
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_3.uasset" 1659
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_5.uasset" 1660
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_3_2_2_2_2.uasset" 1661
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_6.uasset" 1662
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2_2_2.uasset" 1663
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_7.uasset" 1664
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet.uasset" 1665
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_8.uasset" 1666
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Velvet_2.uasset" 1667
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Cube_9.uasset" 1668
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_013.uasset" 1669
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_014.uasset" 1670
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_015.uasset" 1671
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_016.uasset" 1672
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_017.uasset" 1673
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_018.uasset" 1674
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Material_021.uasset" 1675
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube.uasset" 1676
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/black.uasset" 1677
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/green.uasset" 1678
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/red.uasset" 1679
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/white.uasset" 1680
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_01.uasset" 1681
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_02.uasset" 1682
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/yellow.uasset" 1683
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_03.uasset" 1684
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_05.uasset" 1685
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_06.uasset" 1686
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/orange.uasset" 1687
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_07.uasset" 1688
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_08.uasset" 1689
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_11.uasset" 1690
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_12.uasset" 1691
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_13.uasset" 1692
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_15.uasset" 1693
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_16.uasset" 1694
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/blue.uasset" 1695
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_18.uasset" 1696
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_19.uasset" 1697
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_20.uasset" 1698
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_23.uasset" 1699
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube_Rubik_s_Cube_26.uasset" 1700
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_04.uasset" 1701
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_09.uasset" 1702
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_10.uasset" 1703
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_14.uasset" 1704
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_17.uasset" 1705
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_21.uasset" 1706
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_22.uasset" 1707
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_24.uasset" 1708
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/rubiks_cube__Rubik_s_Cube_25.uasset" 1709
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/0a22f444.uasset" 1710
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/0a22f444_dds.uasset" 1711
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/5d6201ce.uasset" 1712
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/5d6201ce_dds.uasset" 1713
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/c8bb879c.uasset" 1714
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/c8bb879c_dds.uasset" 1715
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/d21c07a5.uasset" 1716
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/d21c07a5_dds.uasset" 1717
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/e6e033a7.uasset" 1718
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/e6e033a7_dds.uasset" 1719
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/Dalec[full]/Dalek.uasset" 1720
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Pillar_50x500.uasset" 1721
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_AssetPlatform.uasset" 1722
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/SM_AssetPlatform.uasset" 1723
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_400x300.uasset" 1724
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_400x400.uasset" 1725
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_500x500.uasset" 1726
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_Door_400x400.uasset" 1727
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_Window_400x400.uasset" 1728
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Light01.uasset" 1729
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Light01_Cue.uasset" 1730
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Light02.uasset" 1731
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Light02_Cue.uasset" 1732
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Explosion01.uasset" 1733
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Explosion02.uasset" 1734
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Explosion_Cue.uasset" 1735
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Burst_M.uasset" 1736
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_Burst.uasset" 1737
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Explosion_SubUV.uasset" 1738
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 1739
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/m_flare_01.uasset" 1740
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_radial_ramp.uasset" 1741
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Smoke_SubUV.uasset" 1742
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1743
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1744
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/P_Explosion.uasset" 1745
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1746
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1747
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1748
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1749
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1750
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1751
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1752
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/Skybox.uasset" 1753
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1754
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1755
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/BP_LightStudio.uasset" 1756
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 1757
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1758
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Bush_D.uasset" 1759
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Bush_N.uasset" 1760
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Bush.uasset" 1761
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Bush.uasset" 1762
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Chair_M.uasset" 1763
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Chair_N.uasset" 1764
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Chair.uasset" 1765
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Couch.uasset" 1766
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Glass.uasset" 1767
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Door_M.uasset" 1768
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Door_N.uasset" 1769
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Door.uasset" 1770
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Door.uasset" 1771
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_MaterialSphere.uasset" 1772
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 1773
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 1774
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1775
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Basalt_D.uasset" 1776
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_RockMesh_M.uasset" 1777
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_RockMesh_N.uasset" 1778
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Rock.uasset" 1779
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Rock.uasset" 1780
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Shelf_M.uasset" 1781
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Shelf_N.uasset" 1782
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Shelf.uasset" 1783
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Shelf.uasset" 1784
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Basic_Floor.uasset" 1785
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Stairs.uasset" 1786
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Cone.uasset" 1787
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Cylinder.uasset" 1788
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1789
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Pipe.uasset" 1790
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Pipe_180.uasset" 1791
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Pipe_90.uasset" 1792
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Plane.uasset" 1793
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Torus.uasset" 1794
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Trim.uasset" 1795
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1796
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1797
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_TriPyramid.uasset" 1798
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Tube.uasset" 1799
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Wedge_A.uasset" 1800
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Wedge_B.uasset" 1801
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_WideCapsule.uasset" 1802
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 1803
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1804
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1805
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1806
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1807
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1808
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1809
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Textures/UE4_LOGO_CARD.uasset" 1810
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1811
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1812
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1813
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1814
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Textures/T_UE4_Mannequin_Mobile_M.uasset" 1815
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Textures/T_UE4_Mannequin_Mobile_N.uasset" 1816
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Textures/T_UE4_Mannequin_Mobile_O.uasset" 1817
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/M_UE4Man_Body.uasset" 1818
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Textures/UE4Man_Logo_N.uasset" 1819
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Materials/M_UE4Man_ChestLogo.uasset" 1820
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile_PhysicsAsset.uasset" 1821
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile_Skeleton.uasset" 1822
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/UE4_Mannequin_Mobile/Mesh/SK_Mannequin_Mobile.uasset" 1823
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/ClearCommands.uasset" 1824
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenu/LevelIconButton.uasset" 1825
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/LevelIconButton.uasset" 1826
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Backgrounds/MainMenuBackgroundForYesButton.uasset" 1827
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Backgrounds/MainMenuBackgroundFroNoButton.uasset" 1828
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Backgrounds/star_butterfly.uasset" 1829
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/1080normal.uasset" 1830
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/640Normal.uasset" 1831
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/720Normal.uasset" 1832
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/MainMenuNormal.uasset" 1833
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/NoButton.uasset" 1834
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/OptionsNormal.uasset" 1835
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/QuitGameNormal.uasset" 1836
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/StartGameNormal.uasset" 1837
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/YesButton.uasset" 1838
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenu/MainMenuWidget.uasset" 1839
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenu/MainMenuHUD.uasset" 1840
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenu/MenuController.uasset" 1841
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenu/MainMenuGameMode.uasset" 1842
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenuGameMode.uasset" 1843
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenuHUD.uasset" 1844
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MainMenuWidget.uasset" 1845
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/MenuController.uasset" 1846
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/StartButton.uasset" 1847
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/StopGameButton.uasset" 1848
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/TestMovementWidget.uasset" 1849
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/TestMovementWidget.uasset" 1850
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/TurnLeftButton.uasset" 1851
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/TurnLeftButton.uasset" 1852
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/GameUI/TurnRightButton.uasset" 1853
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/TurnRightButton.uasset" 1854
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/AroundCamera/Cam.uasset" 1855
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/AroundCamera/Cam.uasset" 1856
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Backgrounds/MainMenuBackgroundForYesButton.uasset" 1857
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Backgrounds/NoStarImage.uasset" 1858
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Backgrounds/star_butterfly.uasset" 1859
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Backgrounds/MainMenuBackgroundFroNoButton.uasset" 1860
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Backgrounds/YesStarImage.uasset" 1861
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/1080normal.uasset" 1862
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/640Normal.uasset" 1863
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/720Normal.uasset" 1864
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/ButtonTemplate.uasset" 1865
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/ButtonTemplate.uasset" 1866
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/MainMenuNormal.uasset" 1867
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/NoButton.uasset" 1868
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/OptionsNormal.uasset" 1869
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/QuitGameNormal.uasset" 1870
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/round_green_button.uasset" 1871
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/round_green_button.uasset" 1872
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/StartGameNormal.uasset" 1873
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/summer__uichest_com_.uasset" 1874
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/summer__uichest_com_.uasset" 1875
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Images/Buttons/YesButton.uasset" 1876
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Sounds/dustyroom_multimedia_rollover_or_button_clink.uasset" 1877
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Sounds/sound_ex_machina_Buttons+-+Glass+Button.uasset" 1878
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Sounds/sound_ex_machina_Buttons+-+Glass+Button.uasset" 1879
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Sounds/sound_ex_machina_Buttons+-+Glass+Button__1_.uasset" 1880
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Sounds/zapsplat_toy_plastic_button_press.uasset" 1881
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/Sounds/zapsplat_toy_plastic_button_press.uasset" 1882
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/StrategyCamera/StrategyCamera.uasset" 1883
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/StrategyCamera/StrategyCamera.uasset" 1884
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/StrategyCamera/New/StrategyCamera.uasset" 1885
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI_Stuff/StrategyCamera/New/StrategyCamera.uasset" 1886
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1887
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1888
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1889
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 1890
+"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 1891
+"../../Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset" 1892
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1893
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1894
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1895
+"../../Plugins/2D/Paper2D/Content/OpaqueLitSpriteMaterial.uasset" 1896
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1897
+"../../Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" 1898
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1899
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1900
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1901
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsStruct.uasset" 1902
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/cylinder.uasset" 1903
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/disc.uasset" 1904
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/sphere.uasset" 1905
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/square.uasset" 1906
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsTable.uasset" 1907
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Arealight.uasset" 1908
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1909
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1910
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 1911
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_BaseMaster.uasset" 1912
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacityMaster.uasset" 1913
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacitySimpleMaster.uasset" 1914
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset" 1915
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CropUV.uasset" 1916
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CroppedUVMapping.uasset" 1917
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 1918
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Color.uasset" 1919
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/HSVtoRGB.uasset" 1920
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RGBtoHSV.uasset" 1921
+"../../Plugins/Enterprise/DatasmithContent/Content/Textures/S_LightArea.uasset" 1922
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 1923
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1924
+"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 1925
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset" 1926
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 1927
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 1928
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 1929
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 1930
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 1931
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 1932
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 1933
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 1934
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 1935
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo.uasset" 1936
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial.uasset" 1937
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController.uasset" 1938
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 1939
+"../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset" 1940
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/SpeedDownButton.uasset" 1941
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/RestartButton.uasset" 1942
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/PauseButton.uasset" 1943
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/InfoButton.uasset" 1944
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/SpeedUpButton.uasset" 1945
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/UI/UI_Stuff/Images/Buttons/JumpButton.uasset" 1946
+"../../../Engine/Content/Maps/Entry.umap" 1947
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1948
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1949
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1950
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1951
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1952
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1953
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1954
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1955
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1956
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1957
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1958
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1959
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1960
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1961
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1962
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1963
+"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1964
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/GameStuff/GeneralGameMode.uasset" 1965
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/SpaceSkyBox/SkyBoxNew.uasset" 1966
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/SpaceSkyBox/M_SkyBox.uasset" 1967
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/SpaceSkyBox/M_SkyBox_Inst.uasset" 1968
+"../../../Engine/Content/MapTemplates/Sky/SM_SkySphere.uasset" 1969
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/SpaceSkyBox/ClassSkyBox.uasset" 1970
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Levels/Level_1_BuiltData.uasset" 1971
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Levels/Level_1.umap" 1972
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Levels/MainMenu.umap" 1973
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Saved/Backup/4-seasons_2015-05-16-01-31-24.umap" 1974
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/Block.uasset" 1975
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/GameStuff/BP_Sky_Sphere.uasset" 1976
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/BP_Sky_Sphere.uasset" 1977
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/class_map.uasset" 1978
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/GeneralGameMode.uasset" 1979
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/BP_Classes/new_game_mode.uasset" 1980
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1981
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Maps/Minimal_Default.umap" 1982
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Fire01.uasset" 1983
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Fire01_Cue.uasset" 1984
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Fire_SubUV.uasset" 1985
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1986
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1987
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Water_N.uasset" 1988
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1989
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1990
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/P_Fire.uasset" 1991
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1992
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Smoke01.uasset" 1993
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Smoke01_Cue.uasset" 1994
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/P_Smoke.uasset" 1995
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1996
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Fire_Sparks01.uasset" 1997
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1998
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Spark_Core.uasset" 1999
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_Spark.uasset" 2000
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/P_Sparks.uasset" 2001
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 2002
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Steam01.uasset" 2003
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Steam01_Cue.uasset" 2004
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/P_Steam_Lit.uasset" 2005
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 2006
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Lamp_M.uasset" 2007
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Lamp_N.uasset" 2008
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Lamp.uasset" 2009
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Lamp_Ceiling.uasset" 2010
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 2011
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Lamp_Wall.uasset" 2012
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 2013
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Maps/StarterMap_BuiltData.uasset" 2014
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 2015
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 2016
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 2017
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 2018
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 2019
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 2020
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 2021
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 2022
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Brick_Clay_New.uasset" 2023
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 2024
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 2025
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Perlin_Noise_M.uasset" 2026
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Brick_Clay_Old.uasset" 2027
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 2028
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 2029
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 2030
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 2031
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 2032
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 2033
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 2034
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 2035
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 2036
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 2037
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 2038
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 2039
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 2040
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 2041
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 2042
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 2043
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 2044
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Gradinet_01.uasset" 2045
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 2046
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_CobbleStone_Rough.uasset" 2047
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 2048
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 2049
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 2050
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 2051
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Grime_D.uasset" 2052
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Rust_N.uasset" 2053
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Concrete_Grime.uasset" 2054
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Panels_D.uasset" 2055
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Panels_N.uasset" 2056
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Concrete_Panels.uasset" 2057
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Poured_D.uasset" 2058
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Poured_N.uasset" 2059
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Concrete_Poured.uasset" 2060
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 2061
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 2062
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 2063
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 2064
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Concrete_Tiles.uasset" 2065
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ground_Grass_D.uasset" 2066
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ground_Grass_N.uasset" 2067
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Ground_Grass.uasset" 2068
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ground_Gravel_D.uasset" 2069
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ground_Gravel_N.uasset" 2070
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Ground_Gravel.uasset" 2071
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_ground_Moss_D.uasset" 2072
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Ground_Moss_N.uasset" 2073
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Ground_Moss.uasset" 2074
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 2075
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 2076
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Gold_N.uasset" 2077
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 2078
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Chrome.uasset" 2079
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Copper_D.uasset" 2080
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Copper.uasset" 2081
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Gold_D.uasset" 2082
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Gold.uasset" 2083
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Rust_D.uasset" 2084
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Rust.uasset" 2085
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Metal_Steel_N.uasset" 2086
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Metal_Steel.uasset" 2087
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Basalt_N.uasset" 2088
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Rock_Basalt.uasset" 2089
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 2090
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 2091
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 2092
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Rock_Sandstone.uasset" 2093
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Slate_D.uasset" 2094
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Rock_Slate_N.uasset" 2095
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Rock_Slate.uasset" 2096
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Checker_Noise_M.uasset" 2097
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Single_Tile_N.uasset" 2098
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Tech_Dot_M.uasset" 2099
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Tech_Dot_N.uasset" 2100
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 2101
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 2102
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 2103
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 2104
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 2105
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Water_Lake.uasset" 2106
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Water_M.uasset" 2107
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Water_Ocean.uasset" 2108
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 2109
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 2110
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2111
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 2112
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 2113
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Oak_D.uasset" 2114
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Oak_N.uasset" 2115
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Wood_Oak.uasset" 2116
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Pine_D.uasset" 2117
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Pine_N.uasset" 2118
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Wood_Pine.uasset" 2119
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Walnut_D.uasset" 2120
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Wood_Walnut_N.uasset" 2121
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Materials/M_Wood_Walnut.uasset" 2122
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Floor_400x400.uasset" 2123
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_400x200.uasset" 2124
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_Door_400x300.uasset" 2125
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Architecture/Wall_Window_400x300.uasset" 2126
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Collapse01.uasset" 2127
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Collapse02.uasset" 2128
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Collapse_Cue.uasset" 2129
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Starter_Birds01.uasset" 2130
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Starter_Wind05.uasset" 2131
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Starter_Wind06.uasset" 2132
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Starter_Background_Cue.uasset" 2133
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Starter_Music01.uasset" 2134
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Audio/Starter_Music_Cue.uasset" 2135
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Dust_Particle_D.uasset" 2136
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 2137
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Particles/P_Ambient_Dust.uasset" 2138
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/MaterialSphere.uasset" 2139
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Chair.uasset" 2140
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Frame_M.uasset" 2141
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Frame_N.uasset" 2142
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Frame.uasset" 2143
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_CornerFrame.uasset" 2144
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_DoorFrame.uasset" 2145
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_GlassWindow.uasset" 2146
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_PillarFrame.uasset" 2147
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_PillarFrame300.uasset" 2148
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Statue_M.uasset" 2149
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_Statue_N.uasset" 2150
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_Statue.uasset" 2151
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_StatueGlass.uasset" 2152
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_Statue.uasset" 2153
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_TableRound_M.uasset" 2154
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Textures/T_TableRound_N.uasset" 2155
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/Materials/M_TableRound.uasset" 2156
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_TableRound.uasset" 2157
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Props/SM_WindowFrame.uasset" 2158
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2159
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Shapes/Shape_Sphere.uasset" 2160
+"../../../../../../Users/nasti/Documents/Unreal Projects/JustDoIt/Content/Stuff/StarterContent/Maps/StarterMap.umap" 2161
